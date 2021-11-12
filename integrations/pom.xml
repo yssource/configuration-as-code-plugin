@@ -343,7 +343,7 @@
     <dependency>
       <groupId>io.jenkins.plugins</groupId>
       <artifactId>aws-global-configuration</artifactId>
-      <version>1.6</version>
+      <version>1.7</version>
       <scope>test</scope>
       <exclusions>
         <exclusion>
@@ -460,7 +460,7 @@
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>azure-keyvault</artifactId>
-      <version>123.v1aba71c2d365</version>
+      <version>131.v867845ef6ae9</version>
     </dependency>
 
     <dependency>
@@ -574,7 +574,7 @@
       <dependency>
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>aws-java-sdk</artifactId>
-        <version>1.11.995</version>
+        <version>1.12.101-300.vc09c7be9cb57</version>
       </dependency>
       <dependency>
         <groupId>commons-codec</groupId>
@@ -702,7 +702,7 @@
       <dependency>
         <groupId>org.apache.maven</groupId>
         <artifactId>maven-artifact</artifactId>
-        <version>3.8.2</version>
+        <version>3.8.3</version>
       </dependency>
       <dependency>
         <groupId>org.apache.maven</groupId>
